@@ -9,7 +9,9 @@ With this lovely cinema app the user will indulge into the cinema world, where a
 
 ## Project structure
 Unified Modelling Language Diagrams (UML):
-![](/Users/katerynatakhtai/Downloads/Cinema_scheme.png)
+//![](/Users/katerynatakhtai/Downloads/Cinema_scheme.png)
+
+![Cinema_scheme](https://github.com/Kateryna-Takhtai/cinema-app/assets/114578101/c7c97e97-36a5-44ce-a105-5a4ecafbb957)
 
 ## The list of the endpoints
 * POST: /movie-sessions (admin) - create a new movie session;
