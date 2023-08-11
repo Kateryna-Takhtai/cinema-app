@@ -9,7 +9,7 @@ With this lovely cinema app the user will indulge into the cinema world, where a
 
 ## Project structure
 Unified Modelling Language Diagrams (UML):
-<img alt="Cinema_scheme.png" src="..%2F..%2FDownloads%2FCinema_scheme.png"/>
+![](/Users/katerynatakhtai/Downloads/Cinema_scheme.png)
 
 ## The list of the endpoints
 * POST: /movie-sessions (admin) - create a new movie session;
