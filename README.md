@@ -9,9 +9,9 @@ With this lovely cinema app the user will indulge into the cinema world, where a
 
 ## Project structure
 Unified Modelling Language Diagrams (UML):
-![Cinema_scheme.png](..%2F..%2FDownloads%2FCinema_scheme.png)
+<img alt="Cinema_scheme.png" src="..%2F..%2FDownloads%2FCinema_scheme.png"/>
 
-## the list of the endpoints
+## The list of the endpoints
 * POST: /movie-sessions (admin) - create a new movie session;
 * POST: /orders/complete (user) - create a new order for current user;
 * GET: /cinema-halls (user/admin) - get a list of all cinema halls;
@@ -35,7 +35,7 @@ Unified Modelling Language Diagrams (UML):
 * MySQL
 
 ## Set-up
-* clone the repository git clone git@github.com:Kateryna-Takhtai/cinema-app.git; 
+* clone the repository; 
 * open project in IDE;
 * create your own database "cinema";
 * replace YOUR_DRIVER, YOUR_URL, YOUR_USERNAME, YOUR_PASSWORD in db.properties on your own;
