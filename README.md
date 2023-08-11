@@ -1,4 +1,4 @@
-# CINEMA APP
+# CINEMA APP 🎥
 With this lovely cinema app the user will indulge into the cinema world, where all CRUD operations are at his service:
 * register or login as a user;
 * create and find movies;
